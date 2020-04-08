@@ -1,0 +1,15 @@
+/*
+	Arrowhead Co. - canvas.css
+
+	>>> A stylesheet for games with a canvas.
+	>>> Used in conjunction with my standard library.
+*/
+
+* {
+	box-sizing : border-box;
+
+	margin : 0;
+	padding : 0;
+
+	overflow : hidden;
+}
