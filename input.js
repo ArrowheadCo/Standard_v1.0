@@ -108,3 +108,5 @@ document.addEventListener("mozpointerlockchange", isLocked);
 
 document.addEventListener("keydown", keyPress);
 document.addEventListener("keyup", keyRelease);
+
+//Updated just now lol
